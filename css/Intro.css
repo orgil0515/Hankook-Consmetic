@@ -2,11 +2,10 @@
     background-color: red;
 }
 
-.main-home{
+.intro-home{
     width:100%;
     height: 100vh;
-    background-image: url(./../image/HomePage_image/Dulguun.png);
+    background-image: url(./../image/introduction/slider1.jpg);
     background-position: center;
     background-size: cover;
 }
-
